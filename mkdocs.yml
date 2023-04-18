@@ -1,0 +1,11 @@
+site_name: My Docs
+nav:
+  - Dev Guide:
+      - Overwiew: dev-guide/index.md
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - attr_list
+    - def_list
